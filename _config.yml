@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Web Development
 header-img: img/home-bg.png
 email: rolfes57069@yahoo.com
 copyright_name: rolfess
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning one line of code at a time...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rolfess
